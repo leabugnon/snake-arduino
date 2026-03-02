@@ -26,7 +26,7 @@ Le système a été conçu de manière **modulaire et évolutive** afin de pouvo
 - Premiers tests de pitch/roll
 
 ### 🚀 V3 — Accéléromètre optimisé (version actuelle)
-- Filtre passe-bas sur les axes X, Y, Z (exigence du cours)
+- Filtre passe-bas sur les axes X, Y, Z
 - Calcul du pitch et du roll à partir des données filtrées
 - Calibration automatique au démarrage
 - Contrôle plus stable et intuitif
