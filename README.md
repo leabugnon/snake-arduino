@@ -115,4 +115,4 @@ Le système a été conçu de manière **modulaire et évolutive** afin de pouvo
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/ton-user/snake-arduino.git
+git clone https://github.com/leabugnon/snake-arduino.git
