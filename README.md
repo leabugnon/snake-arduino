@@ -46,14 +46,14 @@ Le système a été conçu de manière **modulaire et évolutive** afin de pouvo
 - 🔊 Effets sonores (manger, perdre une vie, game over)
 - ❌ Affichage Game Over (croix rouge)
 - 🔁 Bouton de redémarrage (restart)
-- 🧠 Filtre passe-bas sur l’accéléromètre (conforme aux consignes du cours)
+- 🧠 Filtre passe-bas sur l’accéléromètre
 
 ---
 
 ## 🛠️ Matériel utilisé
 
 - Arduino Uno (ou compatible)
-- Panneau(x) LED WS2812 (ex: 8×8)
+- Panneau(x) LED WS2812 (8×8)
 - IMU ICM-20948 (I2C)
 - Buzzer passif
 - 3 LEDs + résistances 220Ω (indicateur de vies)
