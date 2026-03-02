@@ -19,12 +19,20 @@ Le système a été conçu de manière **modulaire et évolutive** afin de pouvo
 - Première implémentation du moteur du jeu Snake
 - Validation de la logique de déplacement et des collisions
 
-### 🧭 V2 — Contrôle par accéléromètre (version actuelle)
+### 🧭 V2 — Contrôle par accéléromètre (première implémentation)
 - Remplacement du joystick par l’IMU ICM-20948
-- Contrôle du serpent par inclinaison de la carte
-- Ajout du filtrage des données capteur
-- Système de vies + Game Over
-- Code refactorisé et stabilisé
+- Lecture brute de l’accéléromètre
+- Apparition de bruit et de contrôles peu intuitifs
+- Premiers tests de pitch/roll
+
+### 🚀 V3 — Accéléromètre optimisé (version actuelle)
+- Filtre passe-bas sur les axes X, Y, Z (exigence du cours)
+- Calcul du pitch et du roll à partir des données filtrées
+- Calibration automatique au démarrage
+- Contrôle plus stable et intuitif
+- Correction des freezes et du game over
+- Système de vies + LEDs indicatrices
+- Code refactorisé et propre
 
 ---
 
