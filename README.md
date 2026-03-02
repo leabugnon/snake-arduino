@@ -100,6 +100,27 @@ Le système a été conçu de manière **modulaire et évolutive** afin de pouvo
 | 5V | VCC |
 | GND | GND |
 
+## 🎮 Câblage — Version V1 (Joystick)
+
+La première version du projet utilisait un joystick analogique pour contrôler le serpent avant le passage au contrôle par accéléromètre (V2/V3).
+
+### Joystick analogique (XY + bouton)
+
+| Arduino | Joystick |
+|--------|----------|
+| 5V | VCC |
+| GND | GND |
+| A0 | VRx (axe horizontal) |
+| A1 | VRy (axe vertical) |
+| D7 (optionnel) | SW (bouton du joystick) |
+
+### Fonctionnement (V1)
+- VRx : gauche / droite
+- VRy : haut / bas
+- SW : restart (optionnel)
+
+Le joystick permettait un contrôle direct et intuitif, mais ne répondait pas à l’objectif du cours qui demandait l’utilisation d’un capteur de mouvement (IMU).
+
 ---
 
 ## 📦 Bibliothèques Arduino
