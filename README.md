@@ -119,7 +119,6 @@ La première version du projet utilisait un joystick analogique pour contrôler 
 - VRy : haut / bas
 - SW : restart (optionnel)
 
-Le joystick permettait un contrôle direct et intuitif, mais ne répondait pas à l’objectif du cours qui demandait l’utilisation d’un capteur de mouvement (IMU).
 
 ---
 
