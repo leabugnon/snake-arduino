@@ -21,16 +21,15 @@ Implémentation du jeu Snake classique sur une matrice de LEDs WS2812 8×8, cont
 
 ## 🛒 Matériel nécessaire
 
-| Composant 
-|---|---|
-| Arduino (Uno / Nano / compatible) 
-| Matrices LED WS2812 8×8 
-| IMU ICM-20948 (breakout I2C) 
-| Buzzer passif 
-| LEDs (vies) 
-| Résistances 220Ω
-| Bouton poussoir 
-| Câbles Dupont 
+
+Arduino (Uno / Nano / compatible) ,
+Matrices LED WS2812 8×8 ,
+IMU ICM-20948 (breakout I2C) ,
+Buzzer passif ,
+LEDs (vies) ,
+Résistances 220Ω,
+Bouton poussoir ,
+Câbles Dupont ,
 
 ---
 
