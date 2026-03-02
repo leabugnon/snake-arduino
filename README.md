@@ -21,7 +21,7 @@ Implémentation du jeu Snake classique sur une matrice de LEDs WS2812 8×8, cont
 
 ## 🛒 Matériel nécessaire
 
-| Composant | Quantité |
+| Composant 
 |---|---|
 | Arduino (Uno / Nano / compatible) 
 | Matrices LED WS2812 8×8 
