@@ -251,7 +251,22 @@ La première version du projet utilisait un joystick analogique pour contrôler 
 - VRy : haut / bas
 - SW : restart (optionnel)
 
+## 🔢 Ordre des matrices LED
 
+Les matrices 8×8 sont disposées selon l’ordre suivant :
+
+| Position | Numéro de matrice |
+|---------|-------------------|
+| Haut gauche | 1 |
+| Haut droite | 2 |
+| Bas droite | 3 |
+| Bas gauche | 4 |
+
+Représentation :
+
+| 1 | 2 |
+|---|---|
+| 4 | 3 |
 ---
 
 ## 📦 Bibliothèques Arduino
