@@ -155,7 +155,7 @@ Plusieurs évolutions pourraient être envisagées :
 - Apparition de bruit et de contrôles peu intuitifs
 - Premiers tests de pitch/roll
 
-### 🚀 V3 — Accéléromètre optimisé (version actuelle)
+### 🚀 V3 — Accéléromètre optimisé 
 - Filtre passe-bas sur les axes X, Y, Z
 - Calcul du pitch et du roll à partir des données filtrées
 - Calibration automatique au démarrage
@@ -163,7 +163,8 @@ Plusieurs évolutions pourraient être envisagées :
 - Correction des freezes et du game over
 - Système de vies + LEDs indicatrices
 - Code refactorisé et propre
-
+### ⚡ V4 — Accéléromètre optimisé (version actuelle)
+- 4 matrices led
 ---
 
 ## ✨ Fonctionnalités
