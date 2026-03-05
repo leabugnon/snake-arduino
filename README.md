@@ -61,8 +61,8 @@ Le système a été conçu de manière **modulaire et évolutive** afin de pouvo
 - Breadboard + câbles Dupont
 
 ---
-![schema](images/schema1)
-![schema](images/schema2)
+![schema](../images/schema1)
+![schema](../images/schema2)
 ## 🔌 Câblage (configuration actuelle de test)
 
 ### IMU ICM-20948 (I2C)
