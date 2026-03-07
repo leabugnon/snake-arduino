@@ -176,7 +176,7 @@ Plusieurs évolutions pourraient être envisagées :
 - 🔊 Effets sonores (manger, perdre une vie, game over)
 - ❌ Affichage Game Over (croix rouge)
 - 🔁 Bouton de redémarrage (restart)
-- 🧠 Filtre passe-bas sur l’accéléromètre
+- 🧠 Filtre sur l’accéléromètre
 
 ---
 
