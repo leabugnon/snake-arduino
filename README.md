@@ -173,7 +173,6 @@ Plusieurs évolutions pourraient être envisagées :
 - 💡 Affichage sur panneau(x) LED WS2812 (adressables)
 - ❤️ Système de 3 vies avec LEDs indicatrices
 - 🍏 Génération aléatoire des pommes
-- ⚡ Accélération progressive du jeu
 - 🔊 Effets sonores (manger, perdre une vie, game over)
 - ❌ Affichage Game Over (croix rouge)
 - 🔁 Bouton de redémarrage (restart)
